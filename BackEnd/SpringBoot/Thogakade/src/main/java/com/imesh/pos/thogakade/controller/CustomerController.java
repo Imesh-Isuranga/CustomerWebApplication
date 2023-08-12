@@ -33,7 +33,7 @@ public class CustomerController {
         return customerService.getCustomer(id);
     }
 
-    @GetMapping
+    @GetMapping("/all")
     public List<Customer> getAllCustomer(){
         return customerService.getAllCustomer();
     }

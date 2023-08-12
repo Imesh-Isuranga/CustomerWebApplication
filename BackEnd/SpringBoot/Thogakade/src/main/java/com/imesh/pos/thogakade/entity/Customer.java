@@ -11,7 +11,7 @@ import lombok.NonNull;
 @AllArgsConstructor
 @NoArgsConstructor
 @Entity
-@Table(name="Customer")
+@Table(name="NewCustomer")
 public class Customer {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -21,5 +21,5 @@ public class Customer {
     @NonNull
     private String address;
     @Column(name = "Salary")
-    private String salary;
+    private double salary;
 }
