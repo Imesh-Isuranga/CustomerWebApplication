@@ -35,7 +35,21 @@ After run ng serve open your browser on http://localhost:4200/
 
 ####  SpringBoot 
 
-Open the springboot project using Intellij idea.Refresh the Maven repository.After run the project.
+Open the springboot project using Intellij idea.Refresh the Maven repository.
+
+Open application.properties file and add your mysql username and password.
+
+```
+spring.datasource.url=jdbc:mysql://localhost:3306/Thogakade?createDatabaseIfNotExist=true
+spring.datasource.username=username
+spring.datasource.password=password
+spring.jpa.show-sql=true
+spring.jpa.generate-ddl=true
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect
+```
+
+
+After run the project.
 
 
 ####  NodeJs
