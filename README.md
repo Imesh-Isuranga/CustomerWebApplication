@@ -3,9 +3,8 @@
 
 This full customer simple web application.
 
-FrontEnd - Angular
-BackEnd -  1.Spring Boot with Mysql
-           2.Node.js with MongoDB
+- FrontEnd - Angular
+- BackEnd -  Spring Boot with Mysql | Node.js with MongoDB
 
 I have created two backends using Spring boot and Node.js for same Frontend.You cn use any backend.
 
