@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0df60fd-c356-435f-b135-c217bd8b9417" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/FrontEnd For Nodejs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Thogakade/src/app/dto/Customer.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BackEnd/ExpressJs/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../BackEnd/ExpressJs/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BackEnd/ExpressJs/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../BackEnd/ExpressJs/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BackEnd/ExpressJs/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../BackEnd/ExpressJs/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BackEnd/ExpressJs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../BackEnd/ExpressJs/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/FrontEndAngular.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BackEnd/ExpressJs/controller/CustomerController.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../BackEnd/ExpressJs/controller/CustomerController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BackEnd/ExpressJs/route/CustomerRoute.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../BackEnd/ExpressJs/route/CustomerRoute.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Thogakade" beforeDir="false" afterPath="$PROJECT_DIR$/Thogakade" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Thogakade/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/Thogakade/angular.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Thogakade/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Thogakade/package-lock.json" afterDir="false" />
@@ -21,6 +18,7 @@
       <change beforePath="$PROJECT_DIR$/Thogakade/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Thogakade/src/app/app.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Thogakade/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Thogakade/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Thogakade/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Thogakade/src/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEnd For Spring Boot/Thogakade" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEnd For Spring Boot/Thogakade" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,15 +53,14 @@
     <property name="DatabaseDriversLRU" value="mongo" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Spring Boot/ThogakadeApi" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.14888889" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="ts.external.directory.path" value="E:\My New Creation\My Codes\Second Time\WebApplication Full\FrontEndAngular\Thogakade\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="E:\My New Creation\My Codes\Second Time\WebApplication Full\FrontEndAngular\FrontEnd For Nodejs\Thogakade\node_modules\typescript\lib" />
   </component>
   <component name="RunManager">
     <configuration name="app.component.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FrontEndAngular/Thogakade/src/app/app.component.html" useBuiltInWebServerPort="true">
@@ -89,6 +86,7 @@
       <workItem from="1691867856804" duration="7145000" />
       <workItem from="1691910131190" duration="6185000" />
       <workItem from="1692008940250" duration="2196000" />
+      <workItem from="1692014866164" duration="9692000" />
     </task>
     <servers />
   </component>

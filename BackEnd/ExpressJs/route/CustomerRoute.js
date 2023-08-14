@@ -8,5 +8,6 @@ router.put('/update',customerController.updateCustomer)
 router.delete('/delete',customerController.deleteCustomer)
 router.get('/get',customerController.getCustomer)
 router.get('/GetAll',customerController.getAllCustomer)
+router.get('/search',customerController.searchCustomer)
 
 module.exports = router;
