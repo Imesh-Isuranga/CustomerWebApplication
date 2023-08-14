@@ -8,9 +8,9 @@ const saveCustomer=(req,res)=>{
         salary:req.body.salary
     });
     customerDTO.save().then(result=>{
-        response.staus(201).json(result);
+        res.staus(201).json(result);
     }).catch(error=>{
-        response.staus(500).json(error);
+        res.staus(500).json(error);
     });
 }
 
